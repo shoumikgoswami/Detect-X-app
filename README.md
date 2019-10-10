@@ -8,6 +8,8 @@ Effective and efficient security checks are essential in today’s world of trad
 Detect-X's state-of-the-art machine-learning-based threat detection software arms you with the most effective, efficient and vendor-neutral solution available for carryon, hold baggage and cargo. From conventional, military and homemade threats – to challenges like finding smaller mass explosives and reducing false alarms rates – our customizable, highly responsive system can quickly adapt to identify new threats in real-time with minimal impact on performance and fewer demands on resources.
 
 Try our application at - https://detectx.onrender.com/
+Landing page - https://mailchi.mp/313dba8f6bca/detectx
+API Documentation - https://documenter.getpostman.com/view/1712989/SVtR3r1X?version=latest
 
 ### How it works
 ![draft flow](https://user-images.githubusercontent.com/30216453/66503916-c11fae00-eae5-11e9-8749-cfc8abba700a.jpg)
